@@ -1,0 +1,95 @@
+.heading {
+    color: #fff;
+    background-color: #3E4DE8;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+}
+
+.student-detail {
+    color: #6260D3;
+    font-size: 20px;
+    font-weight:bold;
+    margin: 20px 0px 0 0;
+
+}
+
+.form {
+    padding: 20px 40px;
+    
+}
+
+.col{
+    border: 1px solid grey;
+
+}
+
+input {
+    background-color: #E9EFFE !important;
+    box-shadow: 2px 2px 2px grey;
+    width: 400px !important;
+    /* margin-left: 5px !important; */
+    
+}
+
+.form-group {
+    margin-top: 20px !important;
+}
+
+.name-icon{
+    position: absolute;
+    left: 315px;
+    box-sizing: border-box;
+    top: 177px;
+
+}
+
+::placeholder {
+    padding-left: 25px;
+    color: black;
+}
+
+button {
+    margin: 35px 1px 0 0 !important;
+}
+
+.clg-icon {
+    position: absolute;
+    left: 315px;
+    box-sizing: border-box;
+    top: 258px;
+}
+
+.loc-icon {
+    position: absolute;
+    left: 315px;
+    box-sizing: border-box;
+    top: 341px;
+}
+
+#display_image {
+    margin-top: 30px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    background-position: center;
+    background-size: cover;
+}
+
+#myImg{
+    height: 100%;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.imageBox {
+    width: 150px;
+    height: 150px;
+}
+
+.student-detail{ 
+    margin-left: 35px;
+}
